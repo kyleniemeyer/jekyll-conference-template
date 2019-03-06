@@ -26,7 +26,7 @@ Each of these hotels offers on-site parking for a fee ($14–19 per day).
 Phone: (626) 792-2727, Fax: (626) 795-7669<br />
 Rate: $189/night plus applicable taxes; rate includes complimentary wireless internet.<br />
 Link: <https://www.marriott.com/event-reservations/reservation-link.mi?id=1547662579319&key=GRP&app=resvlink><br />
-Cut-off date: March 4, 2019.
+Cut-off date: March 11, 2019.
 
 ##### ~~Sheraton Pasadena Hotel~~
 <i class="fa fa-map-marker mr-3" aria-hidden="true"></i>[303 Cordova St, Pasadena, CA 91101](https://goo.gl/maps/C9HXoKRnysp)<br />
