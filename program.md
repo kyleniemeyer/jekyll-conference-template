@@ -5,7 +5,7 @@ slide_id: 4
 ---
 
 ### Draft program
-[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Draft program](./assets/11th-USNCM-program-v1.pdf)
+[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Final program](./assets/11th-USNCM-program-final.pdf)
 
 ##### Program Overview
 
