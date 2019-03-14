@@ -64,7 +64,7 @@ deadlines:
     pass_due: True
   - date: 2019-03-08
     text: Art competition deadline
-    pass_due: False
+    pass_due: True
   - date: 2019-03-17
     text: Full registration deadline
     pass_due: False
