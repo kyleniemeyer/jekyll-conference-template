@@ -12,12 +12,12 @@
             {% assign platinumsponsors = site.data.conference.sponsors | where: "level","platinum" %}
             {% for sponsor in platinumsponsors %}
             <div class="col-sm text-left sponsor">
-                <figure class="figure d-block float-left">
-                  <a href="{{ sponsor.url }}">
-                  <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
-                  </a>
-                  <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
-                </figure>
+              <figure class="figure">
+                <a href="{{ sponsor.url }}">
+                <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                </a>
+                <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+              </figure>
             </div>
             {% endfor %}
             </div>
@@ -30,12 +30,12 @@
             {% assign goldsponsors = site.data.conference.sponsors | where: "level","gold" %}
             {% for sponsor in goldsponsors %}
             <div class="col-sm text-left sponsor">
-                <figure class="figure d-block float-left">
-                  <a href="{{ sponsor.url }}">
-                    <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
-                  </a>
-                  <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
-                </figure>
+              <figure class="figure">
+                <a href="{{ sponsor.url }}">
+                <img class="figure-img img-fluid" src="{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                </a>
+                <figcaption class="figure-caption">{{ sponsor.name }}</figcaption>
+              </figure>
             </div>
             {% endfor %}
             </div>

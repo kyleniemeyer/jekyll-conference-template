@@ -100,6 +100,10 @@ sponsors:
     url: https://www.exponent.com
     level: sponsor
     logo_path: ./assets/images/exponent-logo.png
+  - name: National Science Foundation
+    url: https://www.nsf.gov
+    level: platinum
+    logo_path: ./assets/images/NSF-logo.svg
 
 social_media:
   facebook_link:
