@@ -67,6 +67,9 @@ deadlines:
     pass_due: True
   - date: 2019-03-17
     text: Full registration deadline
+    pass_due: True
+  - date: 2019-03-24
+    text: Meeting opens
     pass_due: False
 
 news:
@@ -74,6 +77,8 @@ news:
     text: Website online
   - date: 2019-02-22
     text: Draft presentation schedule available
+  - date: 2019-03-24
+    text: Final program available
 
 sponsors:
   - name: Caltech Division of Engineering and Applied Sciences
