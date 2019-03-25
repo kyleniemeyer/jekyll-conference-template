@@ -4,10 +4,15 @@ layout: program
 slide_id: 4
 ---
 
+{% if site.data.conference.program_link %}
+### Final program
+[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Download program PDF]({{ site.data.conference.program_link }})
+{% else %}
 ### Draft program
-[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Final program](./assets/11th-USNCM-program-final.pdf)
+[<i class="fa fa fa-file-pdf-o" aria-hidden="true"></i> Draft program]({{ site.data.conference.program_link }})
+{% endif %}
 
-##### Program Overview
+#### Program Overview
 
 - Saturday
   * All day: [Workshop for Early Career Faculty in Combustion](https://combustion-community.github.io/workshop-2019/)
@@ -25,7 +30,3 @@ slide_id: 4
 - Wednesday
   * Morning: [JPL](https://www.jpl.nasa.gov/) lab tour (9:30 am to 12:00 pm)
   * Afternoon: [JPL](https://www.jpl.nasa.gov/) lab tour (1:00 pm to 3:30 pm)
-
-{% if site.data.conference.program_link %}
-[<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
-{% endif %}
